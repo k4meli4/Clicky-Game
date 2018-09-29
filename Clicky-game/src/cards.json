@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "image": "images/cheetah.jpg"
+  },
+  {
+    "id": 2,
+    "image": "images/jaguar.jpg"
+  },
+  {
+    "id": 3,
+    "image": "images/lion.jpg"
+  },
+  {
+    "id": 4,
+    "image": "images/caracal.jpg"
+  },
+  {
+    "id": 5,
+    "image": "images/lynx.gif"
+  },
+  {
+    "id": 6,
+    "image": "images/serval.jpg"
+
+  },
+  {
+    "id": 7,
+    "image": "images/Snow-Leopard.jpg"
+
+  },
+  {
+    "id": 8,
+    "image": "images/tiger.png"
+
+  }
+]
